@@ -12,4 +12,7 @@ python3 main.py mazkgang https://mazkgang.chomtana.workers.dev/ 10000 100
 
 If URI is IPFS hash, use https://ipfs.io/ + your hash.
 https://ipfs.io/QmNNHx7rpodRYXhKPtP6czFtvzH3xz6hfrecPnKpoDijFk/
-    
+
+## Excel (CSV)
+
+Currently not perfect. Attributes might not all show up.
