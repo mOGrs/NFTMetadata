@@ -3,7 +3,7 @@
 This tool will help you with metadata parsing.
 
 ## How to use
-```console
+```bash
     git clone git@github.com:mOGrs/NFTMetadata.git
     OR
     download zip
